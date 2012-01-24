@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/logicamente/!svn/ver/17/trunk/logicamente/src
+END
+Variable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/logicamente/!svn/ver/11/trunk/logicamente/src/Variable.class.php
+END
+Node.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/logicamente/!svn/ver/11/trunk/logicamente/src/Node.class.php
+END
+Function.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/logicamente/!svn/ver/11/trunk/logicamente/src/Function.class.php
+END
+callbackGenerateSignature.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/logicamente/!svn/ver/11/trunk/logicamente/src/callbackGenerateSignature.php
+END
+Logicamente.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/logicamente/!svn/ver/11/trunk/logicamente/src/Logicamente.class.php
+END
+Constant.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/logicamente/!svn/ver/11/trunk/logicamente/src/Constant.class.php
+END
+Connective.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/logicamente/!svn/ver/11/trunk/logicamente/src/Connective.class.php
+END
+Atom.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/logicamente/!svn/ver/11/trunk/logicamente/src/Atom.class.php
+END
+Signature.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/logicamente/!svn/ver/11/trunk/logicamente/src/Signature.class.php
+END
+Formula.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/logicamente/!svn/ver/11/trunk/logicamente/src/Formula.class.php
+END
+Term.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/logicamente/!svn/ver/11/trunk/logicamente/src/Term.class.php
+END
+Quantifier.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/logicamente/!svn/ver/11/trunk/logicamente/src/Quantifier.class.php
+END
+callbackCheckModel.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/logicamente/!svn/ver/11/trunk/logicamente/src/callbackCheckModel.php
+END
+Relation.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/logicamente/!svn/ver/11/trunk/logicamente/src/Relation.class.php
+END
+Check.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/logicamente/!svn/ver/11/trunk/logicamente/src/Check.class.php
+END
+controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/logicamente/!svn/ver/13/trunk/logicamente/src/controller.php
+END
+PatternMatcher.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/logicamente/!svn/ver/11/trunk/logicamente/src/PatternMatcher.class.php
+END
+Signature2.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/logicamente/!svn/ver/11/trunk/logicamente/src/Signature2.class.php
+END
+callbackGenerateNextModel.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/logicamente/!svn/ver/11/trunk/logicamente/src/callbackGenerateNextModel.php
+END

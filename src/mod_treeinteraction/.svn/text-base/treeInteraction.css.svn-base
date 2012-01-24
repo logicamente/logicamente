@@ -1,0 +1,34 @@
+	ul{
+		list-style:none;
+		padding:0px;
+		margin:0px;
+	}
+	
+	li{
+		float:left;
+		padding:0px;
+		margin:0px;
+	}
+	
+	.connective{
+		background:#99BB99;
+		text-align:center;
+		padding:5px;
+		margin:5px;
+		border: 1px solid #000000;
+		font-weight:bold;
+	}	
+	.connectiveChild{background:#AAFFAA;}
+	.connectiveActive{background:#DDFFDD;}
+	.connectiveSame{background:#FFFFAA;}
+	
+	.atom{
+		background:#9999CC;
+		text-align:center;
+		padding:5px;
+		margin:5px;
+		border: 1px solid #000000;
+	}
+	.atomChild{background:#AAAAFF;}
+	.atomActive{background:#AADDFF;}
+	.atomSame{background:#EEFFFF;}

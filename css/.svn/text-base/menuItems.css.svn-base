@@ -1,0 +1,190 @@
+
+#menuGenerator {
+	background: url("images/menuGeneratorBtn.jpg");
+	height:23px;
+	width:82px;
+}
+
+#menuGenerator:hover {
+	background: url("images/menuGeneratorBtnHover.jpg");
+}
+
+#menuGenerator.selected{
+	background: url("images/menuGeneratorBtnHover.jpg");
+}
+
+#menuDiagnoser {
+	background: url("images/menuDiagnoserBtn.jpg");
+	height:23px;
+	width:82px;
+}
+
+#menuDiagnoser:hover {
+	background: url("images/menuDiagnoserBtnHover.jpg");
+}
+
+#menuDiagnoser.selected{
+	background: url("images/menuDiagnoserBtnHover.jpg");
+}
+
+#menuTranslator {
+	background: url("images/menuTranslatorBtn.jpg");
+	height:23px;
+	width:82px;
+}
+
+#menuTranslator:hover {
+	background: url("images/menuTranslatorBtnHover.jpg");
+}
+
+#menuTranslator.selected{
+	background: url("images/menuTranslatorBtnHover.jpg");
+}
+
+#menuChecker {
+	background: url("images/menuCheckerBtn.jpg");
+	height:23px;
+	width:82px;
+}
+
+#menuChecker:hover {
+	background: url("images/menuCheckerBtnHover.jpg");
+}
+
+#menuChecker.selected{
+	background: url("images/menuCheckerBtnHover.jpg");
+}
+
+#menuSettings {
+	background: url("images/menuSettingsBtn.jpg");
+	height:23px;
+	width:82px;
+}
+
+#menuSettings:hover {
+	background: url("images/menuSettingsBtnHover.jpg");
+}
+
+#menuSettings.selected{
+	background: url("images/menuSettingsBtnHover.jpg");
+}
+
+#menuReadFormula {
+	background: url("images/menuReadFormulaBtn.jpg");
+	height:23px;
+	width:114px;
+}
+
+#menuReadFormula:hover {
+	background: url("images/menuReadFormulaBtnHover.jpg");
+}
+
+#menuReadFormula.selected{
+	background: url("images/menuReadFormulaBtnHover.jpg");
+}
+
+
+#menuResolutionGame {
+	background: url("images/menuResolutionGameBtn.jpg");
+	height:23px;
+	width:114px;
+}
+
+#menuResolutionGame:hover {
+	background: url("images/menuResolutionGameBtnHover.jpg");
+}
+
+#menuResolutionGame.selected{
+	background: url("images/menuResolutionGameBtnHover.jpg");
+}
+
+#menuTruthTable {
+	background: url("images/menuTruthTableBtn.jpg");
+	height:23px;
+	width:86px;
+}
+
+#menuTruthTable:hover {
+	background: url("images/menuTruthTableBtnHover.jpg");
+}
+
+#menuTruthTable.selected{
+	background: url("images/menuTruthTableBtnHover.jpg");
+}
+
+#menuTreeInteraction {
+	background: url("images/menuTreeInteractionBtn.jpg");
+	height:23px;
+	width:114px;
+}
+
+#menuTreeInteraction:hover {
+	background: url("images/menuTreeInteractionBtnHover.jpg");
+}
+
+#menuTreeInteraction.selected{
+	background: url("images/menuTreeInteractionBtnHover.jpg");
+}
+
+#menuSubstitutionMaster {
+	background: url("images/menuSubstitutionMasterBtn.jpg");
+	height:23px;
+	width:104px;
+}
+
+#menuSubstitutionMaster:hover {
+	background: url("images/menuSubstitutionMasterBtnHover.jpg");
+}
+
+#menuSubstitutionMaster.selected{
+	background: url("images/menuSubstitutionMasterBtnHover.jpg");
+}
+
+
+
+
+#menuSkolemizer {
+	background: url("images/menuSkolemizerBtn.jpg");
+	height:23px;
+	width:95px;
+}
+
+#menuSkolemizer:hover {
+	background: url("images/menuSkolemizerBtnHover.jpg");
+}
+
+#menuSkolemizer.selected{
+	background: url("images/menuSkolemizerBtnHover.jpg");
+}
+#menuPrenex{
+	background: url("images/menuPrenexBtn.jpg");
+	height:23px;
+	width:61px;
+}
+
+#menuPrenex:hover{
+    background: url("images/menuPrenexBtnHover.jpg");
+}
+
+#menuPrenex.seleted{
+    background: url("images/menuPrenexBtnHover.jpg");
+}
+
+
+.menuBtn {
+	background: url("images/menuBtn.jpg") no-repeat;
+	height:19px;
+	width:120px;
+	text-align: center;
+	padding: 4px;
+	font: georgian 10px bold;
+
+}
+
+.menuBtn:hover {
+	background: url("images/menuBtnHover.jpg") no-repeat;
+}
+
+.menuBtn.selected{
+	background: url("images/menuBtnHover.jpg") no-repeat;
+}

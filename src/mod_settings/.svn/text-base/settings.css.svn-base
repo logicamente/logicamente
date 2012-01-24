@@ -1,0 +1,74 @@
+/* CSS Document */
+/*
+body{
+	background:#FFFF99;
+}
+*/
+
+#connectives div{
+/*	border:1px #666 solid; */
+
+}
+
+#divBack{
+	text-align:center;
+}
+
+#divGo{
+
+}
+
+#newConnective{
+	display:none;
+}
+
+#btnAddConnective{
+	clear:both;
+}
+
+.left{
+	float:left;
+}
+
+.right{
+	float:direita;
+}
+
+#btBack{
+	margin-top:50px;
+	margin-right:0px;
+	margin-left:-15px;
+	padding:0px;
+}
+
+#btGo{
+	margin-top:50px;
+	margin-right:30px;
+	margin-left:0px;
+}
+
+.xT    {	font-family: Verdana;	
+					font-size: 11px;	
+					font-style: normal;	
+					color: #000000;	
+					background-color: #FFFFFF;	
+					border: 1px solid #666666; 
+			  }
+.btns   {	font-family: Verdana;	
+					font-size: 11px;	
+					font-style: normal;	
+					color: #000000;	
+					background-color: #CCCCCC;	
+					border: 1.8px solid #000000; 
+				}
+.xTB    {
+          font-family: Verdana;
+          font-size: 11px;
+          font-style: normal;
+          color: #000000;
+          background-color: #FFFFFF;
+          border: 1px solid #666666;
+        }
+        
+
+

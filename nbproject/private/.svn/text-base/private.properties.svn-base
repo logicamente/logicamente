@@ -1,0 +1,5 @@
+copy.src.files=true
+copy.src.target=/var/www/logicamente
+index.file=index.php
+run.as=LOCAL
+url=http://localhost/logicamente/

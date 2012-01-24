@@ -1,0 +1,15 @@
+#fieldsetEsquerda {
+	width:300px;
+	float:left;
+	margin-right:3px;
+}
+
+#clausesList div {
+	cursor:pointer;
+	border:1px solid #FFFFFF;
+}
+
+#clausesList div.selected {
+	border:1px dashed #BBBBBB;
+	background-color:#EEEEEE;
+}

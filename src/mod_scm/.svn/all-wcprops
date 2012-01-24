@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/logicamente/!svn/ver/15/trunk/logicamente/src/mod_scm
+END
+SCMChecker.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/logicamente/!svn/ver/11/trunk/logicamente/src/mod_scm/SCMChecker.class.php
+END
+SCMBuilder.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/logicamente/!svn/ver/11/trunk/logicamente/src/mod_scm/SCMBuilder.class.php
+END
+start.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/logicamente/!svn/ver/11/trunk/logicamente/src/mod_scm/start.php
+END
+json2.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/logicamente/!svn/ver/15/trunk/logicamente/src/mod_scm/json2.js
+END
+scm.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/logicamente/!svn/ver/11/trunk/logicamente/src/mod_scm/scm.php
+END
+SCMUtil.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/logicamente/!svn/ver/11/trunk/logicamente/src/mod_scm/SCMUtil.class.php
+END
+jquery.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/logicamente/!svn/ver/15/trunk/logicamente/src/mod_scm/jquery.js
+END
+ModelChecker.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/logicamente/!svn/ver/13/trunk/logicamente/src/mod_scm/ModelChecker.php
+END
+interface.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/logicamente/!svn/ver/15/trunk/logicamente/src/mod_scm/interface.js
+END
+jquery.form.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/logicamente/!svn/ver/15/trunk/logicamente/src/mod_scm/jquery.form.js
+END
+ModelBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/logicamente/!svn/ver/13/trunk/logicamente/src/mod_scm/ModelBuilder.php
+END
+testSCMChecker.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/logicamente/!svn/ver/11/trunk/logicamente/src/mod_scm/testSCMChecker.php
+END
+scm_builder.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/logicamente/!svn/ver/13/trunk/logicamente/src/mod_scm/scm_builder.php
+END

@@ -1,0 +1,50 @@
+<?php
+	/**
+	* Esta classe implementa a Tabela Verdade
+	*
+	* @author Alba Sandyra Bezerra Lopes <albasandyra@yahoo.com.br>
+	* @author Jonuhey Ferreira da Costa <jonuhey_ferreira@yahoo.com.br>
+	* @author Miklecio Bezerra da Costa <miklecio@gmail.com>
+	* @version 2.0
+	* @access public
+	*/
+
+	//require_once("autoload.php");
+
+	class TruthTable
+	{
+		/**
+		* @access protected
+		* @var array
+		* @name $formulas
+		*/
+		protected $formulas;
+		/**
+		* @access protected
+		* @var integer
+		* @name $options
+		*/
+		protected $options;
+		
+		/**
+		* Construtor da Truth Table
+		* @access public
+		* @param array $formulas Guarda todas as formulas das quais serao geradas as Truth Tables
+		* @param integer $options Define o tipo de Truth Table desejado
+		* @return void 
+		*/
+		public function __construct($formulas, $options)
+		{
+			$this->formulas = $formulas;
+			$this->options = $options;
+		}
+
+		/** 
+		* funcao para gerar uma Truth Table completa (com todas as subformulas das formulas de entrada)
+		* @access public
+		* @return array Array bidimensional com uma linha contendo as formulas e as demais contendo as valoracoes
+		*/
+		public function getFullTruthTable()
+		{
+			
+			//Obtendo todos os 

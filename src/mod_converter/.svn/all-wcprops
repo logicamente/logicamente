@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/logicamente/!svn/ver/11/trunk/logicamente/src/mod_converter
+END
+DagFormulaConverter.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/logicamente/!svn/ver/11/trunk/logicamente/src/mod_converter/DagFormulaConverter.php
+END
+CNFConverterFst.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/logicamente/!svn/ver/11/trunk/logicamente/src/mod_converter/CNFConverterFst.class.php
+END
+formulaConverter2.class_old.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/logicamente/!svn/ver/11/trunk/logicamente/src/mod_converter/formulaConverter2.class_old.php
+END
+formulaConverter2.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/logicamente/!svn/ver/11/trunk/logicamente/src/mod_converter/formulaConverter2.class.php
+END

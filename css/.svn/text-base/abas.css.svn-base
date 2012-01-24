@@ -1,0 +1,32 @@
+#abas {
+	list-style: none;
+	margin-bottom: 10px;
+}
+#abas li {
+	float: left;
+}
+#abas span{
+	background-color: #F2F2F2;
+	padding: 5px;	
+	margin-left: 5px;
+	margin-right: 5px;
+	cursor:pointer;
+}
+#abas span:hover{
+	font-weight: bold;
+	border: 1px solid #CCC;
+}
+#abas span.active-tab {
+	background-color: #CCC;
+	border-top: 3px solid #999;
+	padding-top: 3px;
+	color: #000;
+}
+#conteudo{
+	display: block;
+	margin-top: 5px;
+	border: 3px solid #CCC;
+}
+fieldset{
+	margin-right: 10px;
+}

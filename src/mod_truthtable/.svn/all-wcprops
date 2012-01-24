@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/logicamente/!svn/ver/13/trunk/logicamente/src/mod_truthtable
+END
+TruthTable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/logicamente/!svn/ver/11/trunk/logicamente/src/mod_truthtable/TruthTable.class.php
+END
+formTruthTable.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/logicamente/!svn/ver/11/trunk/logicamente/src/mod_truthtable/formTruthTable.php
+END
+formTruthTable.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/logicamente/!svn/ver/13/trunk/logicamente/src/mod_truthtable/formTruthTable.js
+END
